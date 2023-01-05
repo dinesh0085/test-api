@@ -1,13 +1,33 @@
 {
-    "Products":[
-        {
-            "id":1,
-            "image":"https://th.bing.com/th/id/R.75fd470caf7dd45f0eed185802863ad8?rik=OoJLPPt9v5vUAQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f3eaIVZM.jpg&ehk=E215P5q%2fPeuVtjkibqRCZU8Xirwz9i4chUg9Il5TIhc%3d&risl=&pid=ImgRaw&r=0",
-            "name":"Shose Nike",
-            "type":"Sneeker",
-            "price":1200,
-            "brand":"Nike"
-        }
-        
-    ]
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ]
 }
