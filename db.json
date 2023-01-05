@@ -13,6 +13,13 @@
             "type":"shose",
             "price":1600,
             "brand":"Adidas"
+        },
+        {
+            "id":2,
+            "name":"Shose Adidas",
+            "type":"shose",
+            "price":1600,
+            "brand":"Adidas"
         }
     ]
 }
