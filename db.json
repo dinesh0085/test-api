@@ -8,7 +8,6 @@
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000,
-      "image":"https://th.bing.com/th/id/OIP.s9Irf5fq-UcGQBprEeOOGQHaE6?pid=ImgDet&rs=1"
     },
     {
       "id": 2,
@@ -18,7 +17,6 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000,
-      "image":"https://th.bing.com/th/id/OIP.s9Irf5fq-UcGQBprEeOOGQHaE6?pid=ImgDet&rs=1"
     }
   ],
   "wishlisted_cars": [
@@ -30,7 +28,6 @@
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000,
-      "image":"https://th.bing.com/th/id/OIP.s9Irf5fq-UcGQBprEeOOGQHaE6?pid=ImgDet&rs=1"
     }
   ]
 }
